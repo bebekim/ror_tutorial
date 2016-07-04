@@ -1,0 +1,6 @@
+<table border="1">
+  <tr>
+    <th>ISBN 코드</th><th>이름</th><th>가격</th><th>출판사</th><th>출간일</th><th>CD-ROM</th>
+  </tr>
+    
+</table>
